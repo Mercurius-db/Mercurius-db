@@ -16,18 +16,17 @@ Hey, Ik ben Marcus
 
 ### about me
 
-Ik ben een 17-jarige student uit België met een sterke interesse in **technologie, elektronica, programmeren en cybersecurity**.
+Ik ben Marucs, een student based in Belgium.
 
-Momenteel studeer ik **Elektriciteit** en verdiep ik me steeds verder in **automatisatie, embedded systems, netwerken, softwareontwikkeling en technische systemen**.
+Kk maak en ontwerp wat ik in gedacht heb.
+Als ik een idee heb is er 70% kans dat ik het maak, en slaag in het te maken.
 
-Ik ben graag praktisch bezig en leer vooral door zelf dingen uit te proberen, fouten te maken en oplossingen te zoeken. Ik combineer graag **hardware en software** en vind het interessant om te begrijpen hoe technologie van de basis tot het eindresultaat werkt.
+Mijn main tech stack is 3D printen en producten verbeteren.
+Ik gebruik Autodesk Fusion, Blender, Python, Vs code en claud ai
 
-Naast programmeren en elektronica ben ik ook geïnteresseerd in **3D-printing, computers, engineering en nieuwe technologieën**. Ik ben voortdurend bezig met het uitbreiden van mijn kennis en het ontwikkelen van nieuwe vaardigheden.
-
-**Mijn doel is om mezelf stap voor stap te blijven ontwikkelen en van mijn interesse in technologie een sterke technische toekomst te maken.**
+Ik heb al een paar repos maar ze zijn prive... er komen elke maand wel een paar bij en er worden meestal sommige public gemaakt.
 ---
-
-**Currently learning:**
+**op het moment aan het studeren:**
 ⚡ Electrical Engineering
 💻 Programming
 🔐 Cybersecurity
