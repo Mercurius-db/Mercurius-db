@@ -36,6 +36,10 @@ Ik heb al een paar repos maar ze zijn prive... er komen elke maand wel een paar 
 > Always curious. Always building. Always learning.
 
 
+Ik zie me zelf later hopelijk 
+als een Soc Analyst in grote bedrijven met een diploma (Meet & Regel-technieken) ,(cybersecurity)
+
+
 <br>
 
 ### 📊 Stats
