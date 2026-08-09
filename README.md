@@ -25,6 +25,7 @@ Mijn main tech stack is 3D printen en producten verbeteren.
 Ik gebruik Autodesk Fusion, Blender, Python, Vs code en claud ai
 
 Ik heb al een paar repos maar ze zijn prive... er komen elke maand wel een paar bij en er worden meestal sommige public gemaakt.
+
 -----------
 op het moment aan het studeren:
 ⚡ Electrical Engineering
