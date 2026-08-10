@@ -38,7 +38,7 @@ op het moment aan het studeren:
 
 
 Ik zie me zelf later hopelijk 
-als een Soc Analyst in grote bedrijven met een diploma (Meet & Regel-technieken) ,(cybersecurity)
+als een Security engineer in grote bedrijven met een diploma (Meet & Regel-technieken) & (cybersecurity)
 
 
 <br>
