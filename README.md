@@ -18,13 +18,13 @@ Hey, Ik ben Marcus
 
 Ik ben Marucs, een student based in Belgium.
 
-Kk maak en ontwerp wat ik in gedacht heb.
+Ik maak en ontwerp wat ik in gedacht heb.
 Als ik een idee heb is er 70% kans dat ik het maak, en slaag in het te maken.
 
 Mijn main tech stack is 3D printen en producten verbeteren.
-Ik gebruik Autodesk Fusion, Blender, Python, Vs code en claud ai
+Ik gebruik Autodesk Fusion, Blender, Python, Vs code & claud ai
 
-Ik heb al een paar repos maar ze zijn prive... er komen elke maand wel een paar bij en er worden meestal sommige public gemaakt.
+Ik heb al een paar repos maar ze de meeste zijn prive... er komen om het momment wel een paar bij en er worden meestal sommige public gemaakt.
 
 -----------
 op het moment aan het studeren:
