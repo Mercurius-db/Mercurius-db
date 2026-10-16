@@ -1,50 +1,72 @@
 <div align="center">
-  <img src="https://github.com/Mercurius-db/Mercurius-db/blob/main/ChatGPT%20Image%207%20aug%202026,%2018_43_22.png?raw=true" width="1000
-    " height="400">
+  <img src="https://github.com/Mercurius-db/Mercurius-db/blob/main/ChatGPT%20Image%207%20aug%202026,%2018_43_22.png?raw=true" width="1000" height="400" alt="banner">
 </div>
-Hey, Ik ben Marcus
 
-### 🔧 Core
+<h1 align="center">Hey, I'm Marcus 👋</h1>
+
+<p align="center">
+  <i>Student and maker from Belgium. I design, build and ship what I have in mind.</i>
+</p>
+
+---
+
+### 🔧 Tech stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
 
-### about me
+---
 
-Ik ben Marucs, een student based in Belgium.
+### 👨‍💻 About me
 
-Ik maak en ontwerp wat ik in gedacht heb.
-Als ik een idee heb is er 70% kans dat ik het maak, en slaag in het te maken.
+I'm a student based in Belgium who turns ideas into working hardware and software. If I have an idea, there is a good chance I will build it, and finish it.
 
-Mijn main tech stack is 3D printen en producten verbeteren.
-Ik gebruik Autodesk Fusion, Blender, Python, Vs code & claud ai
+My work sits at the crossroads of **3D printing, embedded systems and programming**, with a focus on improving products and making them smarter.
 
-Ik heb al een paar repos maar ze de meeste zijn prive... er komen om het momment wel een paar bij en er worden meestal sommige public gemaakt.
+**Tools I use daily:** Autodesk Fusion, Blender, Python, VS Code and Claude.
 
------------
-op het moment aan het studeren:
-⚡ Electrical Engineering
-💻 Programming
-🔐 Cybersecurity
-🤖 Automation & Embedded Systems
-🛠️ Electronics & 3D Printing
+Most of my repos are private for now. New ones are coming, and some will go public.
+
+---
+
+### 🚀 Projects
+
+- **Nova**: personal Python AI assistant with voice, calendar and a dashboard UI
+- **Orbit-0**: handheld ESP32-S3 multi-tool (sub-GHz, NFC, IR), inspired by the Flipper Zero
+- **Desk robot arm**: KUKA-style arm with steppers and servos, 3D printed in PETG
+- **Mini packet analyzer**: Python pcap parser with TCP/UDP/DNS stats and live capture
+
+---
+
+### 📚 Currently studying
+
+- ⚡ Electrical engineering
+- 💻 Programming
+- 🔐 Cybersecurity
+- 🤖 Automation and embedded systems
+- 🛠️ Electronics and 3D printing
+
+---
+
+### 🎯 Goal
+
+A degree in **Measurement and Control Engineering** and **Cybersecurity**, leading to a career as a **Security Engineer** at a large company.
 
 > Always curious. Always building. Always learning.
 
+---
 
-Ik zie me zelf later hopelijk 
-als een Security engineer in grote bedrijven met een diploma (Meet & Regel-technieken) & (cybersecurity)
+### 📊 Activity
 
-
-<br>
-
-### 📊 Stats
-
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mercurius-db&bg_color=00000000&color=fcfcfc&line=fcfcfc&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mercurius-db&bg_color=00000000&color=fcfcfc&line=fcfcfc&point=c9d1d9&area=true&hide_border=true" alt="activity graph">
 </p>
