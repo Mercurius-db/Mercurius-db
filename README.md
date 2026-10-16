@@ -36,14 +36,6 @@ My work sits at the crossroads of **3D printing, embedded systems and programmin
 
 Most of my repos are private for now. New ones are coming, and some will go public.
 
----
-
-### 🚀 Projects
-
-- **Nova**: personal Python AI assistant with voice, calendar and a dashboard UI
-- **Orbit-0**: handheld ESP32-S3 multi-tool (sub-GHz, NFC, IR), inspired by the Flipper Zero
-- **Desk robot arm**: KUKA-style arm with steppers and servos, 3D printed in PETG
-- **Mini packet analyzer**: Python pcap parser with TCP/UDP/DNS stats and live capture
 
 ---
 
