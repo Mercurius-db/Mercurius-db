@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Mercurius-db/Mercurius-db/blob/main/ChatGPT%20Image%207%20aug%202026,%2018_43_22.png?raw=true" width="1000" height="400" alt="banner">
+  <img src="https://github.com/Mercurius-db/Mercurius-db/blob/b514926179ff1baa44624c1acc3f23867724e4b6/IMG_0115.JPG" width="1000" height="400" alt="banner">
 </div>
 
 <h1 align="center">Hey, I'm Marcus 👋</h1>
